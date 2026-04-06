@@ -1,4 +1,4 @@
-<!--
+
 <script>
 import Feature from "../components/Feature.svelte";
 import WarehouseIcon from "../components/WarehouseIcon.svelte";
@@ -175,4 +175,4 @@ import Icon from "@iconify/svelte";
         </nav>
     </footer>
 </div>
--->
+
